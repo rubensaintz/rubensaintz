@@ -1,7 +1,7 @@
 # About me:
-- Front End Student <br>
+- Front End Developer <br>
 - Pronouns: He/It <br>
-- 20 years old <br>
+- 21 years old <br>
 - I’m currently learning HTML, CSS, Javascript and in the future i´ll learn REACT.
 
 ## Socials:
